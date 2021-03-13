@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8B55CE</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="colorPrimaryDark">#9969D3</color>
+    <color name="colorAccent">#039969D3</color>
+    <color name="colorGrey">#E0E0E0</color>
+    <color name="colorBlack">#000000</color>
+    <color name="titulo_tarefa">#222324</color>
+    <color name="descricao_tarefa">#5A5F69</color>
+    <color name="back_tablayout">#E7D4FF</color>
+    <color name="color_bottom">#E16B6B</color>
+</resources>

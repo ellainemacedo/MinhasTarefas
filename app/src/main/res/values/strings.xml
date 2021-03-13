@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+    <string name="text_bottom">Adicionar</string>
+    <string name="search_view">Pesquise por tarefas a serem feitas</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="nova_tarefa">Nova tarefa</string>
+    <string name="descricao_nova_tarefa">Adicione uma tarefa que ainda será feita</string>
+    <string name="titulo_tarefa">Título da tarefa</string>
+    <string name="descricaotarefa">Descrição da trefa</string>
+    <string name="opcional">Opcional</string>
+    <string name="btn_criar_tarefa">Criar tarefa</string>
+</resources>
